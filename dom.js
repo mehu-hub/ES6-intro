@@ -2,7 +2,7 @@ document.getElementById('apply-bg').addEventListener('click', function(){
     const friends = document.getElementsByClassName('friend')
     for(friend of friends){
         friend.style.color = 'white'
-        friend.style.padding = '5px'
+        friend.style.padding = '4px'
         friend.style.marginTop = '5px'
         friend.style.backgroundColor = 'orange'
         
