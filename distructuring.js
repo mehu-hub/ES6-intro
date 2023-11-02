@@ -17,8 +17,8 @@ console.log(color)
 console.log(address)
 
 // Array Distructureing 
-const [num1, num2] = [44, 45, 560];
-console.log('Array output:', num1, num2)
+const [num1, no2] = [44, 45, 560];
+console.log('Array output:', num1, no2)
 
 const nayoks = ['Sakib', 'Rakib', 'Bappa', 'Niso'];
 
